@@ -1,0 +1,16 @@
+{
+    "appTitle" : "Islamy",
+    "suraName" : "Chapter Name",
+    "versesNumber" : "Verses Number",
+    "quran" : "Quran",
+    "hadith" : "Hadith",
+    "sebha" : "Sebha",
+    "radio" : "Radio",
+    "ahadith" : "Al-Hadith",
+    "theme" : "Theme",
+    "language" : "Language",
+    "light" : "Light",
+    "dark" : "Dark",
+    "settings" : "Settings",
+    "channel" : "Quran channel"
+}

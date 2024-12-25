@@ -1,0 +1,16 @@
+{
+    "appTitle" : "إسلامي",
+    "suraName" : "إسم السورة",
+    "versesNumber" : "عدد الآيات",
+    "quran" : "القرآن",
+    "hadith" : "الحديث",
+    "sebha" : "السبحه",
+    "radio" : "الراديو",
+    "ahadith" : "الأحاديث",
+    "theme" : "السمة",
+    "language" : "اللغة",
+    "light" : "فاتح",
+    "dark" : "داكن",
+    "settings" : "الإعدادات",
+    "channel" : "إذاعة القرآن الكريم"
+}
